@@ -1,0 +1,21 @@
+#navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+#search_box {
+    width: 100%;
+}
+
+#search_box>input {
+    width: 80%;
+}
+
+#country {
+    display: flex;
+    justify-content: space-between;
+}
+
+#country>h3 {
+    margin-left: 20px;
+}
